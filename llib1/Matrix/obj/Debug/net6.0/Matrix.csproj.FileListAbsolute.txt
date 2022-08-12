@@ -1,0 +1,12 @@
+D:\jetbrain\test2\llib1\Matrix\bin\Debug\net6.0\Matrix.deps.json
+D:\jetbrain\test2\llib1\Matrix\bin\Debug\net6.0\Matrix.dll
+D:\jetbrain\test2\llib1\Matrix\bin\Debug\net6.0\Matrix.pdb
+D:\jetbrain\test2\llib1\Matrix\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+D:\jetbrain\test2\llib1\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\jetbrain\test2\llib1\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+D:\jetbrain\test2\llib1\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+D:\jetbrain\test2\llib1\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+D:\jetbrain\test2\llib1\Matrix\obj\Debug\net6.0\Matrix.dll
+D:\jetbrain\test2\llib1\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+D:\jetbrain\test2\llib1\Matrix\obj\Debug\net6.0\Matrix.pdb
+D:\jetbrain\test2\llib1\Matrix\obj\Debug\net6.0\ref\Matrix.dll

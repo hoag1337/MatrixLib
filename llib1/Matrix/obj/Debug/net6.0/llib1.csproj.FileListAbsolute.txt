@@ -1,0 +1,12 @@
+D:\jetbrain\test2\llib1\llib1\obj\Debug\net6.0\llib1.csproj.AssemblyReference.cache
+D:\jetbrain\test2\llib1\llib1\obj\Debug\net6.0\llib1.GeneratedMSBuildEditorConfig.editorconfig
+D:\jetbrain\test2\llib1\llib1\obj\Debug\net6.0\llib1.AssemblyInfoInputs.cache
+D:\jetbrain\test2\llib1\llib1\obj\Debug\net6.0\llib1.AssemblyInfo.cs
+D:\jetbrain\test2\llib1\llib1\obj\Debug\net6.0\llib1.csproj.CoreCompileInputs.cache
+D:\jetbrain\test2\llib1\llib1\bin\Debug\net6.0\llib1.deps.json
+D:\jetbrain\test2\llib1\llib1\bin\Debug\net6.0\llib1.dll
+D:\jetbrain\test2\llib1\llib1\bin\Debug\net6.0\llib1.pdb
+D:\jetbrain\test2\llib1\llib1\obj\Debug\net6.0\llib1.dll
+D:\jetbrain\test2\llib1\llib1\obj\Debug\net6.0\refint\llib1.dll
+D:\jetbrain\test2\llib1\llib1\obj\Debug\net6.0\llib1.pdb
+D:\jetbrain\test2\llib1\llib1\obj\Debug\net6.0\ref\llib1.dll
